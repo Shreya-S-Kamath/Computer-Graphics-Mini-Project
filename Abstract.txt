@@ -1,0 +1,18 @@
+ABSTRACT
+
+The “RIVER VIEW” project is designed to show the use of 3D shapes and its transformations. 
+It is a graphics package built using OpenGL. 
+The project deals with providing the graphical interface between the user and the system. 
+The project is about moving an object using keyboard keys. 
+In this project, various functions are used to draw the objects such as boat, boat and functions for the user interface. 
+
+User Interaction: 
+The project takes user interaction from the mouse as well as the keyboard and does the necessary functionality based on this interaction. 
+
+There are two different types of user interaction used:
+
+Mouse Interaction:
+Press right mouse button to get menu.
+
+Keyboard Interaction:
+Various keyboard keys are used to move the car and the boat.
